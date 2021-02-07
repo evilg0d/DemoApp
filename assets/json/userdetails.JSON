@@ -1,0 +1,62 @@
+[
+  {
+    "username": "FlyingWolf",
+    "name":"Simon Baker",
+    "password": "Password22",
+    "userImage": "https://picsum.photos/200/300?grayscale",
+    "eloRating": 2250,
+    "stats": {
+      "tournamentsPlayed": 34,
+      "tournamentWon": 9,
+      "winPercentage": 26
+    }
+  },
+  {
+    "username": "Atlantis",
+    "name":"Magnus Carlsen",
+    "password": "Pass@123",
+    "userImage": "https://picsum.photos/200/300?grayscale",
+    "eloRating": 1110,
+    "stats": {
+      "tournamentsPlayed": 20,
+      "tournamentWon": 5,
+      "winPercentage": 25
+    }
+  },
+  {
+    "username": "SunnyDay",
+    "name":"Jim Brown",
+    "password": "PassPass",
+    "userImage": "https://picsum.photos/200/300?grayscale",
+    "eloRating": 3321,
+    "stats": {
+      "tournamentsPlayed": 74,
+      "tournamentWon": 60,
+      "winPercentage": 81
+    }
+  },
+  {
+    "username": "SuperSam",
+    "name":"Tom Cruse",
+    "password": "Pass@123",
+    "userImage": "https://picsum.photos/200/300?grayscale",
+    "eloRating": 1026,
+    "stats": {
+      "tournamentsPlayed": 28,
+      "tournamentWon": 10,
+      "winPercentage": 36
+    }
+  },
+  {
+    "username": "DodgeViper",
+    "name":"Bob Single",
+    "password": "Year@2020",
+    "userImage": "https://picsum.photos/200/300?grayscale",
+    "eloRating": 2819,
+    "stats": {
+      "tournamentsPlayed": 59,
+      "tournamentWon": 33,
+      "winPercentage": 56
+    }
+  }
+]
